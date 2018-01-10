@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Beer Quiz</string>
+
+    <!--questions-->
+    <string name="question1">TextView</string>
+    <string name="question2">TextView</string>
+    <string name="question3">TextView</string>
+    <string name="question4">TextView</string>
+    <string name="question5">TextView</string>
+    <string name="question6">TextView</string>
+
+    <!--answer options-->
+    <string name="answer_1a">RadioButton</string>
+    <string name="answer_1b">RadioButton</string>
+    <string name="answer_1c">RadioButton</string>
+
+    <string name="answer_2a">CheckBox</string>
+    <string name="answer_2b">CheckBox</string>
+    <string name="answer_2c">CheckBox</string>
+
+    <string name="answer_4a">RadioButton</string>
+    <string name="answer_4b">RadioButton</string>
+    <string name="answer_4c">RadioButton</string>
+
+    <string name="answer_5a">CheckBox</string>
+    <string name="answer_5b">CheckBox</string>
+    <string name="answer_5c">CheckBox</string>
+</resources>
