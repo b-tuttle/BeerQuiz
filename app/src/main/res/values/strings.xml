@@ -2,17 +2,16 @@
     <string name="app_name">Beer Quiz</string>
 
     <!--questions-->
-    <string name="question1">TextView</string>
+    <string name="question1">If possible, a cold beer should be served in a frosty mug for best taste.</string>
     <string name="question2">TextView</string>
-    <string name="question3">TextView</string>
+    <string name="question3">What is the name of the reusable container that can be used to transport draft beer, usually by the half gallon?</string>
     <string name="question4">TextView</string>
     <string name="question5">TextView</string>
-    <string name="question6">TextView</string>
+    <string name="question6">As a true test of your appreciation for beer as an artform, please type this sentence verbatim: \nBrewing beer is both more difficult and more rewarding than putting grape juice in a barrel.</string>
 
     <!--answer options-->
-    <string name="answer_1a">RadioButton</string>
-    <string name="answer_1b">RadioButton</string>
-    <string name="answer_1c">RadioButton</string>
+    <string name="answer_1a">True</string>
+    <string name="answer_1b">False</string>
 
     <string name="answer_2a">CheckBox</string>
     <string name="answer_2b">CheckBox</string>
