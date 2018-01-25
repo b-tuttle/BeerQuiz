@@ -79,24 +79,24 @@
 
             <RadioButton
                 style="@style/MultipleChoice"
-                android:id="@+id/answer_4a"
+                android:id="@+id/answer_3a"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/answer_4a" />
+                android:text="@string/answer_3a" />
 
             <RadioButton
                 style="@style/MultipleChoice"
-                android:id="@+id/answer_4b"
+                android:id="@+id/answer_3b"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/answer_4b" />
+                android:text="@string/answer_3b" />
 
             <RadioButton
                 style="@style/MultipleChoice"
-                android:id="@+id/answer_4c"
+                android:id="@+id/answer_3c"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/answer_4c" />
+                android:text="@string/answer_3c" />
 
         </RadioGroup>
 
@@ -104,28 +104,28 @@
             style="@style/Question"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/question5" />
+            android:text="@string/question4" />
 
         <CheckBox
             style="@style/MultipleChoice"
-            android:id="@+id/answer_5a"
+            android:id="@+id/answer_4a"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/answer_5a" />
+            android:text="@string/answer_4a" />
 
         <CheckBox
             style="@style/MultipleChoice"
-            android:id="@+id/answer_5b"
+            android:id="@+id/answer_4b"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/answer_5b" />
+            android:text="@string/answer_4b" />
 
         <CheckBox
             style="@style/MultipleChoice"
-            android:id="@+id/answer_5c"
+            android:id="@+id/answer_4c"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/answer_5c" />
+            android:text="@string/answer_4c" />
 
         <TextView
             style="@style/Question"
