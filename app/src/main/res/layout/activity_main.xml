@@ -71,7 +71,7 @@
             style="@style/Question"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/question4" />
+            android:text="@string/question3" />
 
         <RadioGroup
             android:layout_width="match_parent"
@@ -131,11 +131,11 @@
             style="@style/Question"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/question3"
-            tools:text="placeholder for question three" />
+            android:text="@string/question5"
+            tools:text="placeholder for question five" />
 
         <EditText
-            android:id="@+id/answer_3"
+            android:id="@+id/answer_5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="text" />
@@ -145,7 +145,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/question6"
-            tools:text="placeholder for question three" />
+            tools:text="placeholder for question six" />
 
         <EditText
             android:id="@+id/answer_6"

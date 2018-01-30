@@ -3,25 +3,25 @@
 
     <!--questions-->
     <string name="question1">If possible, a cold beer should be served in a frosty mug for best taste.</string>
-    <string name="question2">TextView</string>
-    <string name="question3">TextView</string>
-    <string name="question4">TextView</string>
+    <string name="question2">Which of the following instruments are commonly used in the process of brewing?</string>
+    <string name="question3">A DIPA is what type of beer?</string>
+    <string name="question4">Which of the following are not commonly used as ingredients in beer?</string>
     <string name="question5">What is the name of the reusable container that can be used to transport draft beer, usually by the half gallon?</string>
-    <string name="question6">As a true test of your appreciation for beer as an artform, please type this sentence verbatim: \nBrewing beer is both more difficult and more rewarding than putting grape juice in a barrel.</string>
+    <string name="question6">What microorganism is responsible for the fermentation of beer?</string>
 
     <!--answer options-->
     <string name="answer_1a">True</string>
     <string name="answer_1b">False</string>
 
-    <string name="answer_2a">CheckBox</string>
-    <string name="answer_2b">CheckBox</string>
-    <string name="answer_2c">CheckBox</string>
+    <string name="answer_2a">Lader Tun</string>
+    <string name="answer_2b">Kettle</string>
+    <string name="answer_2c">Mash Tun</string>
 
-    <string name="answer_3a">RadioButton</string>
-    <string name="answer_3b">RadioButton</string>
-    <string name="answer_3c">RadioButton</string>
+    <string name="answer_3a">Double India Pale Ale</string>
+    <string name="answer_3b">Dark India Pale Ale</string>
+    <string name="answer_3c">Double Hopped Pale Ale</string>
 
-    <string name="answer_4a">CheckBox</string>
-    <string name="answer_4b">CheckBox</string>
-    <string name="answer_4c">CheckBox</string>
+    <string name="answer_4a">Rice</string>
+    <string name="answer_4b">Rose Hips</string>
+    <string name="answer_4c">Barley</string>
 </resources>
