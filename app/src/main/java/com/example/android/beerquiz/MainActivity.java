@@ -67,11 +67,11 @@ public class MainActivity extends AppCompatActivity {
             finalGrade += 1;
         }
 
-        if (answerQuestion5.getText().toString() == "growler") {
+        if (answerQuestion5.getText().toString().equalsIgnoreCase("growler")) {
             finalGrade += 1;
         }
 
-        if (answerQuestion6.getText().toString() == "yeast") {
+        if (answerQuestion6.getText().toString().equalsIgnoreCase("yeast")) {
             finalGrade += 1;
         }
 
